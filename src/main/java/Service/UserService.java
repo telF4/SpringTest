@@ -1,2 +1,5 @@
-package Service;public interface UserService {
+package Service;
+
+public interface UserService {
+    public void getUser();
 }
